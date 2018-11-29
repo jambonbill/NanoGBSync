@@ -1,7 +1,10 @@
 # NanoGBSync
-Simple LSDJ syncro to MIDI-USB
+Simple LSDJ/Nanoloop syncro to MIDI-USB
 ----
 
-The simplest way to use lsdj as MIDI master clock.
+The simplest (and cheapest?) way to use lsdj as MIDI master clock.
 
-The code is dirty and i dont care (much)
+# Parts
+Arduino pro-micro
+
+![Arduino pro micro](arduino-pro-micro.jpg)
