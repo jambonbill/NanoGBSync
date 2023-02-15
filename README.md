@@ -2,7 +2,7 @@
 Simple LSDJ/Nanoloop syncro to MIDI-USB
 ----
 
-The simplest (and cheapest?) way to use lsdj as MIDI master clock.
+The simplest (and cheapest?) way to use Gameboy/lsdj as MIDI master clock.
 
 # Parts
 Arduino pro-micro
